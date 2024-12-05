@@ -3,7 +3,7 @@
 LINK_PATH="/usr/local/bin/tsc-cli"
 OWNER="WeCanSTU" 
 REPO="TechSync"
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Function to add udev rules if they don't already exist
 add_udev_rule() {
