@@ -62,4 +62,4 @@ A: Ensure your system meets the minimum requirements and check your firewall set
 
 Thank you for using **TechSync**! If you have any questions or feedback, please visit our [forum](https://forum.umetav.cn/), open daily from 8 AM to 1 AM Beijing time.
 
-Additionally, you can join our QQ group to communicate and share experiences with other users: [Click to join QQ group 786239575](tencent://groupwpa/?subcmd=join&param=786239575). We look forward to your participation!
+Additionally, you can join our QQ group to communicate and share experiences with other users: join QQ group **786239575** . We look forward to your participation!
