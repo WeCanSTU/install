@@ -1,7 +1,3 @@
-Certainly! Here's your content translated into English:
-
----
-
 # WeCanSTU Toolkit Installer
 
 [中文](https://github.com/WeCanSTU/install/blob/main/README_CN.md) / [English](https://github.com/WeCanSTU/install/blob/main/README.md)
